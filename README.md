@@ -1,5 +1,5 @@
 # Todo
-
+An iOS application to demonstrate on-deman service for tutors
 ## Tasks list
 
 - [X] BrainStorm
